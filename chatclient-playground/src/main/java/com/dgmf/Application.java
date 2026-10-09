@@ -1,13 +1,13 @@
-package com.dgmf.chatclient_playground;
+package com.dgmf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChatclientPlaygroundApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ChatclientPlaygroundApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

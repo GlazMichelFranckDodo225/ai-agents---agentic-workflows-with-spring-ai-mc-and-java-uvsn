@@ -1,10 +1,10 @@
-package com.dgmf.chatclient_playground;
+package com.dgmf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ChatclientPlaygroundApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
